@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "wx-test-test",
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "WX-DongXing <xingdong3@jd.com>",
@@ -15,5 +15,6 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "a338469a1b8dbc4d1b9bbe368291ad73a160a60c"
 }
