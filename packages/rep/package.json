@@ -1,6 +1,6 @@
 {
   "name": "wx-test-rep",
-  "version": "0.0.2-alpha.0",
+  "version": "0.0.2-alpha.2+5877ad4",
   "description": "> TODO: description",
   "author": "xingdong3 <xingdong3@jd.com>",
   "homepage": "",
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "6a97d0706c43db8f7912de088de3987416081625"
+  "gitHead": "5877ad4382a00d10fa0eb11d898252dd33bb7c1d"
 }
