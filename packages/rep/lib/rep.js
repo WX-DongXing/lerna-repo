@@ -3,5 +3,5 @@
 module.exports = rep;
 
 function rep() {
-  console.log('rep: ')
+  console.log('rep:')
 }
