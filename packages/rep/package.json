@@ -1,0 +1,23 @@
+{
+  "name": "rep",
+  "version": "0.0.10",
+  "description": "> TODO: description",
+  "author": "xingdong3 <xingdong3@jd.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/rep.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.m.jd.com/"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "gitHead": "d9516265f680cf165a7ca48404f27807a1187643"
+}
