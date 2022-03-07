@@ -1,6 +1,6 @@
 {
   "name": "wx-test-test",
-  "version": "0.0.0",
+  "version": "0.0.1-alpha.8+6a97d07",
   "description": "> TODO: description",
   "author": "WX-DongXing <xingdong3@jd.com>",
   "homepage": "",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "a338469a1b8dbc4d1b9bbe368291ad73a160a60c"
+  "gitHead": "6a97d0706c43db8f7912de088de3987416081625"
 }
