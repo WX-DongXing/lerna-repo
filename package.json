@@ -4,7 +4,6 @@
   "devDependencies": {
     "lerna": "^4.0.0"
   },
-  "publishConfig": {
-  },
+  "publishConfig": {},
   "license": "MIT"
 }
