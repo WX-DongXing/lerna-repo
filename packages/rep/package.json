@@ -1,5 +1,5 @@
 {
-  "name": "rep",
+  "name": "wx-test-rep",
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "xingdong3 <xingdong3@jd.com>",
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "e7ec6e8140699423fba161db55204da38100e4c5"
+  "gitHead": "45e2cb71a7855c6d4be0dc44cf1b81e14933ae43"
 }
